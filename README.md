@@ -25,7 +25,7 @@ This project involves analyzing US Census data to explore relationships between 
 - A bar plot showing "Income by Age" is generated.
 - The average income for males and females is calculated and compared.
 - A box plot and bar plot comparing income distribution by gender are created.
-  - An additional box plot explores age distribution by educational status and gender.
+- An additional box plot explores age distribution by educational status and gender.
 
 ## Further Analysis:
 - Counts of males and females with higher education (Bachelor's Degree or higher) are calculated.
