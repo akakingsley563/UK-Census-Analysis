@@ -1,7 +1,7 @@
 # UK Census Analysis
 
 
-![image](https://github.com/user-attachments/assets/4088a26c-243a-44d7-b91f-0ec504ae14a5)
+![image](https://github.com/user-attachments/assets/2f4b9efd-f877-48de-9189-5b3a4b603885)
 
 ## Project Overview
 This project involves analyzing US Census data to explore relationships between various demographic factors, such as gender, age, education, and income. The project utilizes R programming language and several libraries, including ggplot2, dplyr, readr, and scales, for data manipulation and visualization. The main objectives are to clean the data, create meaningful subsets, and generate visualizations to provide insights into the demographic characteristics of the surveyed population.
