@@ -61,4 +61,4 @@ A substantial portion of both males and females possess higher education degrees
 The mean age for males and females offers a basic demographic snapshot.
 Detailed visualizations reveal how age distribution changes with educational attainment and gender.
 
-Overall, the project demonstrates the utility of R for data analysis and visualization, providing a clear picture of demographic trends and disparities within the US Census data. Further analyses could delve into additional variables or more complex statistical methods to uncover deeper insights.
+Overall, the project demonstrates the utility of R for data analysis and visualization, providing a clear picture of demographic trends and disparities within the UK Census data. Further analyses could delve into additional variables or more complex statistical methods to uncover deeper insights.
