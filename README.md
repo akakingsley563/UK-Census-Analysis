@@ -48,7 +48,7 @@ A bar plot illustrates how income varies across different age groups. This visua
 - A histogram shows the age distribution by educational status and gender, offering insights into how age varies with education level.
 
 ## Conclusion
-The project successfully cleans and processes US Census data to reveal important demographic insights. The following conclusions can be drawn from the analysis:
+The project successfully cleans and processes UK Census data to reveal important demographic insights. The following conclusions can be drawn from the analysis:
 
 ## Income Analysis:
 There are significant variations in income across different age groups. Visualizations help pinpoint which age groups tend to earn more.
